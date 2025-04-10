@@ -1,0 +1,540 @@
+"desired": {
+            "$metadata": {
+                "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                "$lastUpdatedVersion": 94,
+                "config": {
+                    "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                    "$lastUpdatedVersion": 94,
+                    "AlarmConfig": {
+                        "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                        "$lastUpdatedVersion": 94,
+                        "AlarmReset": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "ControlName": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        }
+                    },
+                    "BessConfig": {
+                        "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                        "$lastUpdatedVersion": 94,
+                        "BreakerCloseThreshold": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "BreakerSource": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "ControlName": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "Enable": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "ManualOverrideEnable": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "ManualOverrideSetInput": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "OffGridDelay": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "OnGridDelay": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "SetBreakerCommandRetryCount": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "Source": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "test": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        }
+                    },
+                    "BessExportManagementConfiguration": {
+                        "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                        "$lastUpdatedVersion": 94,
+                        "BessDischargeCapacity": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "BessExportLimit": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "BessExportMargin": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "BessMode": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "ControlName": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "Enable": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "Source": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        }
+                    },
+                    "BessNoImportConfiguration": {
+                        "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                        "$lastUpdatedVersion": 94,
+                        "BessChargeCapacity": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "BessImportLimit": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "BessImportMargin": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "BessMode": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "ControlName": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "Pause": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "Source": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        }
+                    },
+                    "IslandingConfig": {
+                        "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                        "$lastUpdatedVersion": 94,
+                        "ControlName": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "GenCurrentLowerLimit": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "GenFrequencyLowerLimit": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "GenFrequencyUpperLimit": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "GenLowerThreshold": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "GenMaxLimit": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "GenMinLimit": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "GenSafeRunningHighLimit": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "GenSafeRunningLowLimit": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "GenUpperThreshold": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "GenVoltageLowerLimit": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "GenVoltageUpperLimit": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "Pause": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "RampFactor": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "Source": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        }
+                    },
+                    "MicroGridStatusConfiguration": {
+                        "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                        "$lastUpdatedVersion": 94,
+                        "BreakerSource": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "ControlName": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "OffgridCritical": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "Source": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "UtilityFrequencyLowerLimit": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "UtilityFrequencyUpperLimit": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "UtilityVoltLowerLimit": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "UtilityVoltUpperLimit": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        }
+                    },
+                    "PvExportManagementConfig": {
+                        "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                        "$lastUpdatedVersion": 94,
+                        "BreakerCloseThreshold": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "BreakerSource": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "ControlName": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "Enable": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "ExportFaultLimit": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "InverterInitDly": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "MaxExportLimit": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "MaxPlantSetpointLmt": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "MinPlantSetpointLmt": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "NoOfInverters": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "OffGridDelay": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "OnGridDelay": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "PvManualOverrideEnable": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "PvManualOverrideSetInput": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "RampFactor": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "ScaleDownFactor": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "ScaleUpFactor": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "SetBreakerCommandRetryCount": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "SetPointUpdateDly": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "Source": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "Threshold1": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        },
+                        "Threshold2": {
+                            "$lastUpdated": "2025-04-09T14:06:16.2826181Z",
+                            "$lastUpdatedVersion": 94
+                        }
+                    }
+                }
+            },
+            "$version": 94,
+            "config": {
+                "AlarmConfig": {
+                    "AlarmReset": "0",
+                    "ControlName": "AlarmReset"
+                },
+                "BessConfig": {
+                    "BreakerCloseThreshold": "80",
+                    "BreakerSource": [
+                        {
+                            "BreakerModel": "0",
+                            "BreakerName": "bbu002-ecc-besbrk-334",
+                            "BreakerOFFDelay": "2000",
+                            "BreakerONDelay": "2000",
+                            "BreakerType": "bessbrk",
+                            "SetBreakerCommandRetryCount": "4"
+                        }
+                    ],
+                    "ControlName": "BESS",
+                    "Enable": "false",
+                    "ManualOverrideEnable": "TRUE",
+                    "ManualOverrideSetInput": "25",
+                    "OffGridDelay": "2500",
+                    "OnGridDelay": "2500",
+                    "SetBreakerCommandRetryCount": "4",
+                    "Source": [
+                        {
+                            "DeviceName": "bbu002-bes1-pms-338",
+                            "DeviceType": "inv"
+                        },
+                        {
+                            "DeviceName": "fn_bess",
+                            "DeviceType": "events"
+                        }
+                    ],
+                    "test": "44"
+                },
+                "BessExportManagementConfiguration": {
+                    "BessDischargeCapacity": "100.0",
+                    "BessExportLimit": "10.0",
+                    "BessExportMargin": "10.0",
+                    "BessMode": "MANUAL_OVERRIDE",
+                    "ControlName": "BessExportManagement",
+                    "Enable": "True",
+                    "Source": [
+                        {
+                            "DeviceName": "bbu002-bes1-utilmtr-340",
+                            "DeviceType": "utilmtr"
+                        },
+                        {
+                            "DeviceName": "bbu002-ecc-pvmtr-331",
+                            "DeviceType": "pvmtr"
+                        },
+                        {
+                            "DeviceName": "fn_bess_export",
+                            "DeviceType": "events"
+                        }
+                    ]
+                },
+                "BessNoImportConfiguration": {
+                    "BessChargeCapacity": "-100.0",
+                    "BessImportLimit": "10.0",
+                    "BessImportMargin": "15.0",
+                    "BessMode": "MANUAL_OVERRIDE",
+                    "ControlName": "BessNoImport",
+                    "Pause": "True",
+                    "Source": [
+                        {
+                            "DeviceName": "bbu002-bes1-besmtr-339",
+                            "DeviceType": "utilmtr"
+                        },
+                        {
+                            "DeviceName": "bbu002-ecc-pvmtr-331",
+                            "DeviceType": "pvmtr"
+                        },
+                        {
+                            "DeviceName": "fn_bess_no_import",
+                            "DeviceType": "events"
+                        }
+                    ]
+                },
+                "IslandingConfig": {
+                    "ControlName": "Islanding",
+                    "GenCurrentLowerLimit": "16",
+                    "GenFrequencyLowerLimit": "58",
+                    "GenFrequencyUpperLimit": "62",
+                    "GenLowerThreshold": "200",
+                    "GenMaxLimit": "995",
+                    "GenMinLimit": "100",
+                    "GenSafeRunningHighLimit": "700",
+                    "GenSafeRunningLowLimit": "300",
+                    "GenUpperThreshold": "800",
+                    "GenVoltageLowerLimit": "400",
+                    "GenVoltageUpperLimit": "505",
+                    "Pause": "false",
+                    "RampFactor": "0.5",
+                    "Source": [
+                        {
+                            "DeviceName": "bbu002-ecc-genmtr-001",
+                            "DeviceType": "genmtr"
+                        }
+                    ]
+                },
+                "MicroGridStatusConfiguration": {
+                    "BreakerSource": [
+                        {
+                            "BreakerModel": "0",
+                            "BreakerName": "",
+                            "BreakerOFFDelay": "1200",
+                            "BreakerONDelay": "1200",
+                            "BreakerType": "mainbrk",
+                            "SetBreakerCommandRetryCount": "4"
+                        },
+                        {
+                            "BreakerModel": "0",
+                            "BreakerName": "",
+                            "BreakerOFFDelay": "1200",
+                            "BreakerONDelay": "1200",
+                            "BreakerType": "utilbrk",
+                            "SetBreakerCommandRetryCount": "4"
+                        }
+                    ],
+                    "ControlName": "MicroGridStatus",
+                    "OffgridCritical": "TRUE",
+                    "Source": [
+                        {
+                            "DeviceName": "bbu002-bes1-utilmtr-340",
+                            "DeviceType": "utilmtr"
+                        },
+                        {
+                            "DeviceName": "bbu002-ecc-pvmtr-331",
+                            "DeviceType": "pvmtr"
+                        },
+                        {
+                            "DeviceName": "microgrid",
+                            "DeviceType": "microgridstatus"
+                        },
+                        {
+                            "DeviceName": "fn_mg",
+                            "DeviceType": "events"
+                        },
+                        {
+                            "DeviceName": "fn_communication",
+                            "DeviceType": "commevents"
+                        }
+                    ],
+                    "UtilityFrequencyLowerLimit": "55.0",
+                    "UtilityFrequencyUpperLimit": "65.0",
+                    "UtilityVoltLowerLimit": "451.0",
+                    "UtilityVoltUpperLimit": "489.0"
+                },
+                "PvExportManagementConfig": {
+                    "BreakerCloseThreshold": "13",
+                    "BreakerSource": [
+                        {
+                            "BreakerModel": "0",
+                            "BreakerName": "",
+                            "BreakerOFFDelay": "2500",
+                            "BreakerONDelay": "2500",
+                            "BreakerType": "pvbrk",
+                            "SetBreakerCommandRetryCount": "4"
+                        }
+                    ],
+                    "ControlName": "PvExportManagement",
+                    "Enable": "TRUE",
+                    "ExportFaultLimit": "500.0",
+                    "InverterInitDly": "5000",
+                    "MaxExportLimit": "400.0",
+                    "MaxPlantSetpointLmt": "999.0",
+                    "MinPlantSetpointLmt": "0.0",
+                    "NoOfInverters": "4",
+                    "OffGridDelay": "1000",
+                    "OnGridDelay": "1000",
+                    "PvManualOverrideEnable": "true",
+                    "PvManualOverrideSetInput": "55",
+                    "RampFactor": "1",
+                    "ScaleDownFactor": "1",
+                    "ScaleUpFactor": "0.8",
+                    "SetBreakerCommandRetryCount": "4",
+                    "SetPointUpdateDly": "1000",
+                    "Source": [
+                        {
+                            "DeviceName": "bbu002-bes1-utilmtr-340",
+                            "DeviceType": "utilmtr"
+                        },
+                        {
+                            "DeviceName": "bbu002-pv1-inv1-322",
+                            "DeviceType": "inv"
+                        },
+                        {
+                            "DeviceName": "bbu002-pv1-inv2-323",
+                            "DeviceType": "inv"
+                        },
+                        {
+                            "DeviceName": "bbu002-pv1-inv3-324",
+                            "DeviceType": "inv"
+                        },
+                        {
+                            "DeviceName": "bbu002-pv1-inv4-325",
+                            "DeviceType": "inv"
+                        },
+                        {
+                            "DeviceName": "fn_pv",
+                            "DeviceType": "events"
+                        },
+                        {
+                            "DeviceName": "fn_pv_inv",
+                            "DeviceType": "invevents"
+                        }
+                    ],
+                    "Threshold1": "100",
+                    "Threshold2": "200"
+                }
+            }
+        },
